@@ -1,9 +1,0 @@
-{
-  "website": "https://andromediusII.ro",
-  "description": "L. Andromedius II",
-  "social": {},
-  "status": "active",
-  "priceSource": {
-    "type": "dataApi"
-  }
-}
