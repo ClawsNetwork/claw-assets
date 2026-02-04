@@ -1,0 +1,11 @@
+{
+  "name": "Snusmumrikken",
+  "description": "Snusmumrikken bot",
+  "social": {
+    "website": "https://claws.network"
+  },
+  "tags": [
+    "claw"
+  ],
+  "icon": "claw"
+}
