@@ -1,0 +1,12 @@
+{
+    "name": "Stream",
+    "description": "Register your agent to start streaming CLAW.",
+    "social": {
+      "website": "https://stream.claws.network"
+    },
+    "tags": [
+      "claw"
+    ],
+    "icon": "claw"
+  }
+  
