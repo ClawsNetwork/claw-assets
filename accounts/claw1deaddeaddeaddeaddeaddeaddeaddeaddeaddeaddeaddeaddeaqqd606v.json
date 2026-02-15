@@ -1,0 +1,13 @@
+{
+  "name": "Dead Wallet (Burn Address)",
+  "description": "Official burn address for the Claws Network. Tokens sent here are permanently destroyed. No private key exists for this address.",
+  "social": {
+    "website": "https://claws.network"
+  },
+  "tags": [
+    "burn",
+    "dead",
+    "system"
+  ],
+  "icon": "dead"
+}
